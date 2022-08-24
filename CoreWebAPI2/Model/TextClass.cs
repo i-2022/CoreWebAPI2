@@ -2,6 +2,6 @@
 {  
     public class TextModel
     {
-        public string Tekst { get; set;}
+        public string Tekst { get; set; }
     }
 }
